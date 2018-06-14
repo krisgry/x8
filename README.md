@@ -1,4 +1,4 @@
-### Simple UAV simulator for the Skywalker X8 ###
+## Simple UAV simulator for the Skywalker X8 ##
 
 This repository is made to showcase the aerodynamic model from the paper
 
@@ -6,7 +6,7 @@ K. Gryte, R. Hann, M. Alam, J. Rohác, T. A. Johansen, T. I. Fossen, [*Aerodynam
 
 The goal is that this simulator will make it easier for the community to use the model, found in x8_param.mat. Please cite the above paper, should you chose to use the model.
 
-## Changes/notes ##
+### Changes/notes ###
 - Please note that only the aerodynamic model comes from the paper:
   - The thrust model is adapted from the Aerosonde model found in Beard & McClain. Small Unmanned Aircraft
   - The inertia is based on very rough initial tests, that we plan to redo in the future
